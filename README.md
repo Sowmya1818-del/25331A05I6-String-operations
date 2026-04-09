@@ -17,5 +17,6 @@ if(strcmp(copyStr, str2) == 0)
   printf("\nStrings are equal");
 else
    printf("\nStrings are not equal");
+   printf("\n25331A05I6");
 return 0;
 }
